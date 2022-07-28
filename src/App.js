@@ -56,16 +56,15 @@ return (
         </Container>
       </Navbar>
 		</header>
-  <div>Hello</div>
 		 <Container> 
 		<Row> 
 			 <Col md={12}> 
 			 <div className="wrapper"> 
 				<Routes>
-        <Route exact path="/" element={<CreateStudent />} />
-          <Route path="/Create-student" element={<CreateStudent />} />
-          <Route path="/Edit-student/:id" element={<EditStudent />} />
-          <Route path="/Student-list" element={<StudentList />} />
+        				<Route exact path="/" element={<CreateStudent />} />
+          				<Route path="/Create-student" element={<CreateStudent />} />
+          				<Route path="/Edit-student/:id" element={<EditStudent />} />
+          				<Route path="/Student-list" element={<StudentList />} />
 				</Routes>
 			</div>
 			</Col>
