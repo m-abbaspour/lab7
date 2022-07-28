@@ -18,3 +18,7 @@ A simple CRUD application using Node.js and React
 ![image](https://user-images.githubusercontent.com/89539144/181392248-fa5af371-f2f3-4be8-aafa-fdf2583fe602.png)
 ![image](https://user-images.githubusercontent.com/89539144/181392369-618cbe6e-d4e8-4549-b977-1ef106556467.png)
 ![image](https://user-images.githubusercontent.com/89539144/181392404-38404b2f-f981-4547-98a3-f8caab1de4c0.png)
+
+### Deleting a student:
+![image](https://user-images.githubusercontent.com/89539144/181392878-b392865d-1f1d-4b29-8025-15caa3dd8fd7.png)
+![image](https://user-images.githubusercontent.com/89539144/181392895-33e6cbf0-8377-4101-9ec4-54f11cb8e088.png)
